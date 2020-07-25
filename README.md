@@ -12,6 +12,7 @@
 </p>
 <br>
 <hr>
+<br>
 <p align="center"> 
   <h2>Profile Visitors</h2>
   <img src="https://profile-counter.glitch.me/parthchauhan981104/count.svg" />
