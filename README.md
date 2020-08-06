@@ -5,7 +5,7 @@
   <div>
   <ul>
   <li>🔭 I’m currently working on PHP and JavaScript</li>
-  <li>🌱 I’m learning Web Development</li>
+  <li>🌱 I’m a budding Web Developer</li>
   <li>🔆 Get in touch - <a href="https://www.linkedin.com/in/parth11chauhan">LinkedIn</a> </li>
   </ul>
   </div>
