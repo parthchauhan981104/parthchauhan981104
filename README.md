@@ -1,4 +1,4 @@
-![image](https://github.com/parthchauhan981104/parthchauhan981104/blob/master/matrix.gif)
+![image](https://github.com/parthchauhan981104/parthchauhan981104/blob/master/matrix2.gif)
 <br><br>
 <p align="center">
   <h2>Hi, I'm Parth. 👋</h2>
