@@ -4,8 +4,8 @@
   <h2>Hi, I'm Parth. 👋</h2>
   <div>
   <ul>
-  <li>🔭 I’m currently working on NodeJS and JavaScript</li>
-  <li>🌱 I’m a budding Web Developer</li>
+  <li>🔭 I’m currently working on Python and Selenium</li>
+  <li>🌱 I’m a budding Software Development Engineer</li>
   <li>🔆 Get in touch - <a href="https://www.linkedin.com/in/parth11chauhan">LinkedIn</a> </li>
   </ul>
   </div>
