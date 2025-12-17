@@ -12,10 +12,6 @@
 <br>
 <hr>
 <br>
-<p align="center"> 
-  <h2>Profile Visits</h2>
-  <img src="https://profile-counter.glitch.me/parthchauhan981104/count.svg" />
-</p>
 <br>
 <h2>Profile Stats</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
